@@ -1,0 +1,10 @@
+of is the root of the tree
+and is left child of of
+a is left child of and
+in is right child of and
+he is left child of in
+is is right child of in
+the is right child of of
+that is left child of the
+to is right child of the
+was is right child of to
